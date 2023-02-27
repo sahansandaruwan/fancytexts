@@ -1,0 +1,9 @@
+README.md
+setup.py
+fancytexts/__init__.py
+fancytexts/fancytext.py
+fancytexts/font.py
+fancytexts.egg-info/PKG-INFO
+fancytexts.egg-info/SOURCES.txt
+fancytexts.egg-info/dependency_links.txt
+fancytexts.egg-info/top_level.txt
