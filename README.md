@@ -1,5 +1,9 @@
 ## FancyTexts
 
+<div align="center">
+  <img src="https://sandaruwan-img-host.pages.dev/fancytexts.png" width="320" height="320">
+
+
 
 ```python
 
