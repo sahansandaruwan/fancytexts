@@ -20,10 +20,10 @@ pip install fancytexts
 
 import fancytexts
 
-style = 'af'
+StyleCode = 'af'
 text = 'fancytext'
 
-print(fancytexts.fancytext(style,text))
+print(fancytexts.fancytext(StyleCode,text))
 
 
 
