@@ -31,7 +31,7 @@ print(fancytexts.fancytext(StyleCode,Text))
 
 
 
-| Font  |    Style code  |  Example|
+| Font  |    Style code  |  Output|
 |----------|:-------------:|------:|
 | Small Caps Font|  scf | ғᴀɴᴄʏᴛᴇxᴛs|
 |Currency Font |    cf   |   ₣₳₦₵Ɏ₮ɆӾ₮₴ |
