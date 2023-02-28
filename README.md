@@ -67,14 +67,7 @@ print(fancytexts.fancytext(StyleCode,Text))
 
 
 
+#
+### License
 
-# Developer
-
-<div align="center">
-
-| [![Sahan Sandaruwan](https://github.com/sahansandaruwan.png?size=150)](https://github.com/sahansandaruwan) | 
-|----
- [Sahan Sandaruwan](https://github.com/sahansandaruwan) |
- Developer |
- 
- </div>
+This project is protected by the ``GNU General Public License v3.0.``
