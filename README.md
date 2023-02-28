@@ -6,8 +6,8 @@
   <h1>🈯 FancyTexts</h1>
 </div>
 
-#
 
+### Installation
 ```python
 
 pip install fancytexts
