@@ -33,36 +33,36 @@ print(fancytexts.fancytext(style,text))
 
 | Font  |    Style code  |  Example|
 |----------|:-------------:|------:|
-| Small Caps Font|  left-aligned | $1600 |
-|Currency Font |    centered   |   $12 |
-|Antrophobia Font | right-aligned |    $1 |
-|DoubleStruck Font||
-|Bubble Font||
-|Fraktur Font||
-|Bold Fraktur Font||
-|Flaky Font||
-|Manga Font||
-|Block Font||
-|Rusify Font||
-|Black Bubble Font||
-|Bold Script Font||
-|HandWriting Font||
-|Smooth Font||
-|Bold Font||
-|Italic Font||
-|BoldI talic Font||
-|Monospace Font||
-|Sorcerer Font||
-|High Above Font||
-|Spacing Font||
-|Square Font||
-|Blurry Font||
-|Tiny Caps Font||
-|Blacksquare Font||
-|Fancystyle1 Font||
-|Fancystyle2 Font||
-|Fancystyle3 Font||
-|Symbols Font||
+| Small Caps Font|  scf | $1600 |
+|Currency Font |    cf   |   $12 |
+|Antrophobia Font | af |    $1 |
+|DoubleStruck Font|dsf|
+|Bubble Font|bf|
+|Fraktur Font|ff|
+|Bold Fraktur Font|bff|
+|Flaky Font|ffd|
+|Manga Font|mfd|
+|Block Font|bfd|
+|Rusify Font|rfd|
+|Black Bubble Font|bbfd|
+|Bold Script Font|bsfd|
+|HandWriting Font|hwfd|
+|Smooth Font|sfd|
+|Bold Font|bfds|
+|Italic Font|ifds|
+|BoldI talic Font|bifd|
+|Monospace Font|mofd|
+|Sorcerer Font|sofd|
+|High Above Font|hiafd|
+|Spacing Font|spfd|
+|Square Font|sqfd|
+|Blurry Font|blfd|
+|Tiny Caps Font|ticfd|
+|Blacksquare Font|blsfd|
+|Fancystyle1 Font|fs1f|
+|Fancystyle2 Font|fs2f|
+|Fancystyle3 Font|fs3f|
+|Symbols Font|syfd|
 
 
 
