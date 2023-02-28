@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://sandaruwan-img-host.pages.dev/fancytexts.png" width="320" height="320">
+  <img src="https://sandaruwan-img-host.pages.dev/Fancy-Texts.png" width="300" height="300">
 
   <h1>🈯 FancyTexts</h1>
 </div>
