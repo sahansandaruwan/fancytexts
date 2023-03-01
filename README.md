@@ -59,9 +59,9 @@ print(fancytexts.fancytext(StyleCode,Text))
 |Blurry Font|blfd|f͏a͏n͏c͏y͏t͏e͏x͏t͏s͏|
 |Tiny Caps Font|ticfd|ғᴀɴᴄʏᴛᴇxᴛᴤ|
 |Blacksquare Font|blsfd|🅵🅰🅽🅲🆈🆃🅴🆇🆃🆂|
-|Fancystyle1 Font|fs1f|ꄘꋫꁹꉓꌥ꓅ꑾꋋ꓅ꇘ|
+|Fancystyle1 Font|fs1f|ꄙꁲꋊꇃꂖꋖꏹꋚꋖꌚ|
 |Fancystyle2 Font|fs2f|₣ΔŇĆ¥Ŧ€ЖŦŞ|
-|Fancystyle3 Font|fs3f|ꄙꁲꋊꇃꂖꋖꏹꋚꋖꌚ|
+|Fancystyle3 Font|fs3f|೯ᎯႶᏟᎽᎿᏋ೫ᎿᎴ|
 |Symbols Font|syfd|Ϝꍏ♫☾⚧†€⌘†∫|
 
 
