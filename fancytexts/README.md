@@ -1,1 +1,2 @@
 ## Fancytext
+Developer @sahansandaruwan
